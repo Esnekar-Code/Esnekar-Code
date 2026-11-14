@@ -10,16 +10,15 @@
 
 <br/><br/>
 
-## Skills
+## About me
 
-<img src="https://img.shields.io/badge/Web%20Development-000000?style=for-the-badge&logoColor=00ffc8" alt="Web Development" />
-<img src="https://img.shields.io/badge/Responsive%20UI-000000?style=for-the-badge&logoColor=00ffc8" alt="Responsive UI" />
-<img src="https://img.shields.io/badge/BEM%20Methodology-000000?style=for-the-badge&logoColor=00ffc8" alt="BEM Methodology" />
-<img src="https://img.shields.io/badge/Database%20Design-000000?style=for-the-badge&logoColor=00ffc8" alt="Database Design" />
-<img src="https://img.shields.io/badge/Version%20Control-000000?style=for-the-badge&logoColor=00ffc8" alt="Version Control" />
-<img src="https://img.shields.io/badge/Problem%20Solving-000000?style=for-the-badge&logoColor=00ffc8" alt="Problem Solving" />
+I'm **Esneider Giraldo**, a developer who enjoys turning ideas into clean, functional web projects.
 
-<br/><br/>
+I build responsive interfaces with **HTML5**, **CSS3** and **Tailwind CSS**, organize my styles with the **BEM methodology**, and bring pages to life with **JavaScript**. I use **C++** to practice programming fundamentals and **PostgreSQL** to work with data. Every project is versioned with **Git** and **GitHub**, and written in **VS Code**.
+
+Right now I'm focused on building complete full stack applications, one project at a time.
+
+<br/>
 
 ## Tools & Technologies
 
