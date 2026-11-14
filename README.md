@@ -2,9 +2,10 @@
   <img src="Avatar y banner neón cyberpunk animados.gif"
        width="100%" alt="Esneider Giraldo - Desarrollador en formación">
 </p>
-# 👋 ¡Hola! Soy Esnekar-Code
 
-### 💻 Desarrollador de software en formación | ADSO - SENA
+
+#  👋 ¡Hola! Soy Esnekar-Code
+**💻 Desarrollador de software en formación | ADSO - SENA**
 
 Soy estudiante de **Análisis y Desarrollo de Software (ADSO)** en el SENA. Me interesa crear soluciones digitales, desarrollar aplicaciones web y aprender nuevas tecnologías mediante proyectos prácticos.
 
