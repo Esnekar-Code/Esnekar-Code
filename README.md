@@ -1,4 +1,7 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/esnekar_github_banner_animado.gif"
+       width="100%" alt="Esneider Giraldo - Desarrollador en formación">
+</p>
 
 <!--
 **Esnekar-Code/Esnekar-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
